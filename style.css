@@ -1,0 +1,29 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Palatino", Courier New, monospaced;
+  margin-bottom: 60px;
+}
+
+.row {
+  margin: 20px;
+}
+
+.img-fluid {
+  width: 100%;
+  max-width: 400px;
+  min-width: 300px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f5f5f5;
+}
