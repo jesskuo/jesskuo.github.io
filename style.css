@@ -43,8 +43,14 @@ body {
   filter: invert(100%);
 }
 
-.card-img-top {
+.card-img-top-cs {
   width: 100%;
   height: 40vh;
   object-fit: cover; 
+}
+
+.card-img-design {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
 }
