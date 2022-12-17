@@ -12,7 +12,8 @@ html {
 }
 
 .jumbotron {
-  padding-top: 48px;
+  padding-top: 45px;
+  padding-bottom: 30px;
 }
 
 .headshot {
@@ -41,5 +42,11 @@ html {
 .card-img-design {
   width: 100%;
   height: 30vh;
+  object-fit: cover;
+}
+
+.card-img-portfolio {
+  width: 100%;
+  height: 45vh;
   object-fit: cover;
 }
